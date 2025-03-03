@@ -54,3 +54,17 @@ ul {
   margin-left: 5px;
   padding-left: 10px;
 }
+
+table {
+  border-spacing: 0;
+}
+th {
+  text-align: left;
+  color: white;
+  background-color: #1dabe5;
+  min-width: 250px;
+}
+
+tr:nth-child(odd) {
+  background-color: #b1e6f2;
+}
