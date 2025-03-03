@@ -44,3 +44,13 @@ figure {
 figcaption {
   font-size: 10px;
 }
+
+section {
+  margin-left: 5px;
+  font-size: 15px;
+}
+
+ul {
+  margin-left: 5px;
+  padding-left: 10px;
+}
