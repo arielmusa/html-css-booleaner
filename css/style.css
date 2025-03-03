@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+}
+
+header > div:first-child {
+  background-image: url(../img/pattern.png);
+  background-repeat: repeat;
+  height: 70px;
+  background-color: #4c9ffb;
+  background-size: 250px;
+  position: relative;
+}
+
+.logo {
+  width: 150px;
+  text-align: left;
+  margin-left: 5px;
+}
+.hero {
+  margin-left: 5px;
+}
+h1 {
+  margin-bottom: 0;
+}
+address {
+  font-style: normal;
+  color: grey;
+}
+
+address > a:first-child {
+  color: #3bb0e3;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+time {
+  color: grey;
+  font-size: 10px;
+}
+
+figure {
+  margin-left: 5px;
+}
+figcaption {
+  font-size: 10px;
+}
